@@ -7,3 +7,4 @@ Git has a mutable index called stage.
 merge with conflict.
 Creating a new branch is quick.
 no-ff merge test.
+test stash command.
