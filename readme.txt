@@ -6,4 +6,5 @@ Git is a free software under GPL.
 Git has a mutable index called stage.
 merge with conflict.
 Creating a new branch is quick.
+no-ff testing.
 
